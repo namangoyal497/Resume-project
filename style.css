@@ -77,7 +77,7 @@ display: block;}
 .horizontal-list li{
 	display:inline-block;
 	margin: 0px 8px 8px 0px;
-	text-align: :center;
+	text-align:center;
 	font-size:0.9rem;
      font-weight:100;
 }
@@ -192,7 +192,7 @@ section:target{
 	color:#408E91;
 	line-height:40px;
 	font-size:2vw;
-	marign:auto;
+	margin:auto;
 }
 
 /*skills section*/
@@ -510,7 +510,7 @@ button:focus {
 	margin:0;
 }
 .mp50px{
-	margin
+	margin:50px;
 }
 .mb75px{
 	margin-bottom:75px;
